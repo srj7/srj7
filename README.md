@@ -5,7 +5,7 @@
 <a href="https://twitter.com/sooraj7">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/sooraj970">
+<a href="https://linkedin.com/in/sooraj007">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/srj7">
@@ -34,7 +34,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Linkedin: sooraj970](https://img.shields.io/badge/-sooraj970-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj970/)](https://www.linkedin.com/in/sooraj970/)
+[![Linkedin: sooraj970](https://img.shields.io/badge/-sooraj970-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj970/)](https://www.linkedin.com/in/sooraj007/)
 [![GitHub srj7](https://img.shields.io/github/followers/srj7?label=follow&style=social)](https://github.com/srj7)
 [![website](https://img.shields.io/badge/PortfolioWebsite-srj7.github.io-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
