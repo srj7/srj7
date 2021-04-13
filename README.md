@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/the.peaceful.hunter/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCyWXQ2wPhVm1x6cBzMF6AbA/">
+<a href="https://www.youtube.com/c/SoorajS007/">
   <img align="left" alt="Sooraj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
