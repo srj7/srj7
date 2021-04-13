@@ -1,6 +1,6 @@
 ## Hola, I'm [Sooraj S!](http://srj7.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Srj7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srj7&label=Views&color=blue&style=plastic" alt="Srj7" /> </p>
 
 <a href="https://twitter.com/sooraj7">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,7 +36,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/sooraj7?style=social)](https://twitter.com/srj7)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj970/)](https://www.linkedin.com/in/sooraj970/)
-[![GitHub iampawan](https://img.shields.io/github/followers/srj7?label=follow&style=social)](https://github.com/srj7)
+[![GitHub srj7](https://img.shields.io/github/followers/srj7?label=follow&style=social)](https://github.com/srj7)
 [![website](https://img.shields.io/badge/PortfolioWebsite-srj7.github.io-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
@@ -49,17 +49,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/srj7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srj7&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/srj7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srj7&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/srj7/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srj7&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/srj7/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srj7&repo=VelocityX&theme=light" />
 </a>
 
