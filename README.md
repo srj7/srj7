@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working as a [Freelance college project advisor](#).
 - 🌱 I’m currently learning more about Cloud and DevOps.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
