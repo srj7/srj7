@@ -3,19 +3,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srj7&label=Views&color=blue&style=plastic" alt="Srj7" /> </p>
 
 <a href="https://twitter.com/sooraj7">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sooraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/sooraj007">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sooraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/srj7">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sooraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/martinoleo">
   <img align="left" alt="Sooraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/the.peaceful.hunter/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sooraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/c/SoorajS007/">
   <img align="left" alt="Sooraj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -36,7 +36,7 @@
 
 [![Linkedin: sooraj970](https://img.shields.io/badge/-sooraj970-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj970/)](https://www.linkedin.com/in/sooraj007/)
 [![GitHub srj7](https://img.shields.io/github/followers/srj7?label=follow&style=social)](https://github.com/srj7)
-[![website](https://img.shields.io/badge/PortfolioWebsite-srj7.github.io-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-srj7.github.io-2648ff?style=flat-square&logo=google-chrome)](https://srj7.github.io/)
 
 
 **Languages and Tools:**  
