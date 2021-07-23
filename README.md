@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning more about Cloud and DevOps.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @sooraj970](https://twitter.com/sooraj970) , [Youtube - @sooraj7](https://youtube.com/SoorajS007)
+- 📫 How to reach me: [Twitter - @sooraj970](https://twitter.com/sooraj970) , [Youtube - @Sooraj007](https://youtube.com/SoorajS007)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
