@@ -26,10 +26,9 @@
 
 
 
-- 🔭 I’m currently working as a [Freelance college project advisor](#).
+- 🔭 I’m currently working as a DevOps coordinator(#).
 - 🌱 I’m currently learning more about Cloud and DevOps.
-- 🤔 I’m looking for a job right now.
-- 💬 Ask me about any tech related stuff.
+- 💬 Happy to make tech buddies everywhere.
 - 📫 How to reach me: [Twitter - @sooraj970](https://twitter.com/sooraj970) , [Youtube - @Sooraj007](https://youtube.com/SoorajS007)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
