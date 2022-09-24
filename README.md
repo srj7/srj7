@@ -26,12 +26,12 @@
 
 
 
-- 🔭 I’m currently working as a DevOps coordinator(#).
-- 🌱 I’m currently learning more about Cloud and DevOps.
+- 🔭 I’m currently working as a DevOps Engineer(#).
+- 🌱 I’m currently learning more about Cloud, DevOps and Security.
 - 💬 Happy to make tech buddies everywhere.
 - 📫 How to reach me: [Twitter - @sooraj970](https://twitter.com/sooraj970) , [Youtube - @Sooraj007](https://youtube.com/SoorajS007)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I enrolled for a lot of courses in various platforms, but still use Youtube and Github to learn. XD
 
 [![Linkedin: sooraj970](https://img.shields.io/badge/-sooraj970-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooraj970/)](https://www.linkedin.com/in/sooraj007/)
 [![GitHub srj7](https://img.shields.io/github/followers/srj7?label=follow&style=social)](https://github.com/srj7)
