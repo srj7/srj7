@@ -47,14 +47,9 @@
 <a href="https://github.com/srj7/Binary-Squirrel-Website-PWA">
   <img align="center" src="https://www.binarysquirrel.cf/" />
 
-</a>
-<a href="https://github.com/srj7/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srj7&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
